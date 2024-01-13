@@ -45,6 +45,7 @@ The "category_id" column, with unique identification numbers matching those in t
 The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
 Create the Contacts DataFrame: Choose from 2 options (1. use python dictionary methods. 2. use regular expressions) 
+Note: I used Option 1 with the help of Sandhya Kumari as my tutor
 
 Create the Crowdfunding Database Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 
@@ -63,3 +64,4 @@ Verify the table creation by running a SELECT statement for each table.
 Import each CSV file into its corresponding SQL table.
 
 Verify that each table has the correct data by running a SELECT statement for each.
+
